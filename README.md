@@ -1,6 +1,12 @@
 # Monitor de Moedas
 
-![Badge em Desenvolvimento](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
+![Em Desenvolvimento](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)  
+![Em Progresso](https://img.shields.io/badge/Status-Em%20Progresso-blue)  
+![Beta](https://img.shields.io/badge/Status-Beta-purple)  
+![Estável](https://img.shields.io/badge/Status-Estável-brightgreen)  
+![Manutenção](https://img.shields.io/badge/Status-Manutenção-orange)  
+![Descontinuado](https://img.shields.io/badge/Status-Descontinuado-red)  
+
 
 ## Descrição
 
@@ -76,17 +82,32 @@ Para executar a suíte de testes, utilize:
 
 Certifique-se de que todos os testes estejam passando antes de realizar deploys ou contribuições.
 
-Contribuição
+## Contribuição
 Contribuições são bem-vindas! Siga os passos abaixo para contribuir:
 
     ```bash
-    Faça um fork deste repositório.
-    Crie uma branch para sua feature (git checkout -b feature/nova-feature).
-    Commit suas alterações (git commit -m 'Adiciona nova feature').
-    Faça o push para a branch (git push origin feature/nova-feature).
-    Abra um Pull Request.
+
+        Faça um fork deste repositório.
+        Crie uma branch para sua feature (git checkout -b feature/nova-feature).
+        Commit suas alterações (git commit -m 'Adiciona nova feature').
+        Faça o push para a branch (git push origin feature/nova-feature).
+        Abra um Pull Request.
+
     ```
+![Contribuições Bem-vindas](https://img.shields.io/badge/Contribuições-Bem--vindas-brightgreen)  
    
+
 ## Licença
 
-Este projeto está licenciado sob a MIT License.
+![Licença MIT](https://img.shields.io/badge/Licença-MIT-green)  
+![Licença GPLv3](https://img.shields.io/badge/Licença-GPLv3-blue)  
+![Licença Apache](https://img.shields.io/badge/Licença-Apache_2.0-orange)  
+
+## Versão
+
+![Versão 1.0.0](https://img.shields.io/badge/Versão-1.0.0-blue)  
+
+# Status do Build (CI/CD):
+
+![Build passando](https://img.shields.io/badge/Build-Passando-brightgreen)  
+![Build falhando](https://img.shields.io/badge/Build-Falhando-red)  
