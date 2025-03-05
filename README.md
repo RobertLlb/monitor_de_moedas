@@ -70,10 +70,8 @@ A aplicação estará disponível em http://localhost:3000.
 
 ## Tests
 Para executar a suíte de testes, utilize:
-
-   ```bash
+    ```bash
     rails test
-    
     ```
 
 Certifique-se de que todos os testes estejam passando antes de realizar deploys ou contribuições.
@@ -81,13 +79,14 @@ Certifique-se de que todos os testes estejam passando antes de realizar deploys 
 Contribuição
 Contribuições são bem-vindas! Siga os passos abaixo para contribuir:
 
-   ```bash
-Faça um fork deste repositório.
-Crie uma branch para sua feature (git checkout -b feature/nova-feature).
-Commit suas alterações (git commit -m 'Adiciona nova feature').
-Faça o push para a branch (git push origin feature/nova-feature).
-Abra um Pull Request.
- ```
+    ```bash
+    Faça um fork deste repositório.
+    Crie uma branch para sua feature (git checkout -b feature/nova-feature).
+    Commit suas alterações (git commit -m 'Adiciona nova feature').
+    Faça o push para a branch (git push origin feature/nova-feature).
+    Abra um Pull Request.
+    ```
    
-Licença
+## Licença
+
 Este projeto está licenciado sob a MIT License.
